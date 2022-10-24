@@ -1,5 +1,5 @@
 # THREE-VITE-TS-Boilerplate
-> three.js를 타입스크립트와 vite 환경 구성하는 예제
+> three.js를 타입스크립트와 vite 환경에서 구성하는 예제
 
 ## 웹팩환경에서 구성하는 방법
 https://github.com/kimzerovirus/THREE-Boilerplate
